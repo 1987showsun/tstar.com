@@ -1,0 +1,45 @@
+@media (min-width: 800px){
+
+.tsContent.usersPageTsContent .tsContentBlockContent {
+
+    margin: 0px auto 10px auto;
+}
+
+
+
+
+.tsContent.usersPage .coverBg {
+    height: 250px;
+}
+#content .tsContent main h4,#wrapper>.content .tsContent main h4 {
+
+    font-size: 30px ;
+}
+}
+@media (max-width: 768px){
+
+.loginPage4 {
+	padding:0px 20px;
+}
+}
+
+@media (max-width: 320px){
+.dataBlockUl>li {
+    width: 140px;
+    height: 140px;
+    padding: 12px;
+    margin: 0px 0px 0px 0px;
+}
+#wrapper,footer {
+    width: 110vw;
+}
+
+ul li a.moreIcon{
+margin-right: 30px;
+position: absolute;
+z-index: 10000;
+width: 70px;
+float: left;
+margin-top: -10px;
+}
+}
