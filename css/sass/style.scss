@@ -34,7 +34,7 @@ body{
 }
 
 #wrapper{
-  width: 100vw;
+  width: 100%;
   &[data-whatPage="store"]{
     background-color: #fff;
     @include pc{
