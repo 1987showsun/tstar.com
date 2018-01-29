@@ -387,6 +387,7 @@ body {
 /* line 151, ../sass/edit.scss */
 #content .tsContent.usersPage.page1 .main .tsContentBlockContent ul.tabel.model1 .text,#wrapper>.content .tsContent.usersPage.page1 .main .tsContentBlockContent ul.tabel.model1 .text {
   color: #999;
+  font-size: 0.9em;
 }
 /* line 154, ../sass/edit.scss */
 #content .tsContent.usersPage.page1 .main .tsContentBlockContent ul.tabel.model1 a,#wrapper>.content .tsContent.usersPage.page1 .main .tsContentBlockContent ul.tabel.model1 a {
@@ -514,7 +515,7 @@ body {
   /* line 267, ../sass/edit.scss */
   #content .tsContent.usersPage .main .coverGreetings,#wrapper>.content .tsContent.usersPage .main .coverGreetings {
     position: relative;
-    font-size: 1.4em;
+    font-size: 1.2em;
     top: -110px;
     width: 80%;
     text-align: center;
